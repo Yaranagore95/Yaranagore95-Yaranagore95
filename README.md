@@ -21,15 +21,17 @@
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| [Nom projet 1] | API REST de gestion... | Java, Spring Boot, PostgreSQL |
-| [Nom projet 2] | Application frontend... | Angular, TypeScript |
-| [Nom projet 3] | Projet Symfony... | PHP, Symfony, Doctrine |
+| [mbeyan](https://github.com/Yaranagore95/mbeyan) | Application web pour l'enregistrement, la géolocalisation et l'expertise des biens des clients | PHP, Symfony, MySQL|
+| [multi-tadjiso](https://github.com/Yaranagore95/multi-tadjiso) | Application complète de gestion de stations-service avec architecture multi-rôles et multi-stations. | PHP, Symfony, MySQL |
+| [statistique-back](https://github.com/Yaranagore95/statistique-back)  | Backend Spring Boot pour la gestion des compagnies de transport de bus. Gestion des réservations, files d'attente, et suivi des passagers. | Java, Spring boot, MySQL |
+| [station-front](https://github.com/Yaranagore95/statistique-front)  | Front-end pour la gestion des compagnies de transport de bus. Gestion des réservations, files d'attente, et suivi des passagers|Angular|
+| [prevalimmo](https://github.com/Yaranagore95/prevalimmo)  | Application estimation immobiliere. | PHP, Laravel, MySQL |
 
 ---
 
 ## 📫 Me contacter
 
 - LinkedIn : [linkedin.com/in/sekou-yara](https://linkedin.com/in/sekou-yara)
-- Email : [votre email]
+- Email : [yaranagoresekou@gmail.com]
 
 #OpenToWork #FullRemote #Java #SpringBoot #Angular
