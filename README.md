@@ -1,38 +1,103 @@
-# 👋 Salut, moi c'est Sékou Oumar Yara
+# 👋 Salut, moi c’est Sékou Oumar Yara
 
-**Senior Full Stack Developer** | 8 ans d'expérience | Java • Spring Boot • Angular • React
-
-📍 Basé à Dakar, Sénégal | 🌍 Full remote
-
----
-
-## 🛠️ Technologies
-
-| Catégorie | Technologies |
-|-----------|--------------|
-| Backend | Java, Spring Boot, Node.js, Python, PHP (Symfony) |
-| Frontend | Angular, React, TypeScript, JavaScript |
-| Base de données | PostgreSQL, MySQL, Oracle, SQL Server |
-| DevOps | Docker, Kubernetes, CI/CD (GitHub Actions, GitLab) |
+💻 **Senior Full Stack Developer**
+🚀 8+ ans d’expérience en développement web
+🌍 Basé à Dakar | Disponible en **Full Remote**
 
 ---
 
-## 📌 Projets épinglés
+## 🚀 À propos de moi
 
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| 🏥 [gestion-hopital](https://github.com/Yaranagore95/gestion-hopital) | Back la gestion d'hopital | Java, Spring boot, MySQL|
-| 🏠[mbeyan](https://github.com/Yaranagore95/mbeyan) | Application web pour l'enregistrement, la géolocalisation et l'expertise des biens des clients | PHP, Symfony, MySQL|
-| ⛽ [multi-tadjiso](https://github.com/Yaranagore95/multi-tadjiso) | Application complète de gestion de stations-service avec architecture multi-rôles et multi-stations. | PHP, Symfony, MySQL |
-| 🚌 [statistique-back](https://github.com/Yaranagore95/statistique-back)  | Backend Spring Boot pour la gestion des compagnies de transport de bus. Gestion des réservations, files d'attente, et suivi des passagers. | Java, Spring boot, MySQL |
-| 🚌 [statistique-front](https://github.com/Yaranagore95/statistique-front)  | Front-end pour la gestion des compagnies de transport de bus. Gestion des réservations, files d'attente, et suivi des passagers|Angular|
-| 🏠 [prevalimmo](https://github.com/Yaranagore95/prevalimmo)  | Application estimation immobiliere. | PHP, Laravel, MySQL |
+Développeur passionné avec une forte expertise en **Java/Spring Boot** côté backend et **Angular/React** côté frontend.
+Je conçois des applications robustes, scalables et orientées métier, avec une approche centrée sur la qualité du code et la performance.
+
+✔️ Expérience sur des projets complexes (santé, transport, immobilier, ....)
+✔️ Architecture backend solide (API REST, microservices)
+✔️ Bonne maîtrise DevOps (Docker, CI/CD)
+✔️ Autonome, rigoureux et orienté résultats
 
 ---
 
-## 📫 Me contacter
+## 🛠️ Stack Technique
 
-- LinkedIn : [linkedin.com/in/sekou-yara](https://linkedin.com/in/sekou-yara)
-- Email : [yaranagoresekou@gmail.com]
+### 🔹 Backend
 
-#OpenToWork #FullRemote #Java #SpringBoot #Angular
+* Java (Spring Boot)
+* Node.js
+* Python
+* PHP (Symfony, Laravel)
+
+### 🔹 Frontend
+
+* Angular
+* React
+* TypeScript / JavaScript
+
+### 🔹 Bases de données
+
+* PostgreSQL
+* MySQL
+* Oracle
+* SQL Server
+
+### 🔹 DevOps & Outils
+
+* Docker
+* Kubernetes
+* GitHub Actions / GitLab CI
+
+---
+
+## 📌 Projets principaux
+
+### 🏥 Gestion Hôpital
+
+Application complète de gestion hospitalière
+➡️ Gestion patients, rendez-vous, dossiers médicaux
+**Stack :** Java, Spring Boot, MySQL
+
+---
+
+### 🚌 Plateforme Transport (statistique)
+
+Système de gestion de compagnies de bus
+➡️ Réservations, files d’attente, suivi passagers
+**Stack :**
+
+* Backend : Spring Boot
+* Frontend : Angular
+
+---
+
+### ⛽ Multi-Tadjiso
+
+Application de gestion multi-stations-service
+➡️ Gestion utilisateurs, stations, opérations
+**Stack :** Symfony, MySQL
+
+---
+
+### 🏠 Mbeyan
+
+Application web de gestion et expertise immobilière
+➡️ Enregistrement, géolocalisation, estimation
+**Stack :** Symfony, MySQL
+
+---
+
+### 🏠 Prevalimmo
+
+Application d’estimation immobilière
+**Stack :** Laravel, MySQL
+
+---
+
+## 📫 Contact
+
+📍 Dakar, Sénégal
+💼 LinkedIn : linkedin.com/in/sekou-yara
+📧 Email : [yaranagoresekou@gmail.com](mailto:yaranagoresekou@gmail.com)
+
+---
+
+🔥 **Ouvert aux opportunités Full Remote (Backend / Full Stack)**
